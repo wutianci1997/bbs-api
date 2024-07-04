@@ -1,0 +1,4 @@
+/node_modules
+logger/*
+tests/*
+public/uploads/*

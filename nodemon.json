@@ -1,0 +1,8 @@
+{
+    "ignore": [
+        "*.test.js",
+        "**/node_modules/**",
+        "**/logger/**",
+        "**/initial/**"
+    ]
+}
